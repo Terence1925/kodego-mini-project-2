@@ -1,0 +1,11 @@
+h1,
+h2 {
+  color: #333;
+}
+p {
+  color: #555;
+}
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+}
